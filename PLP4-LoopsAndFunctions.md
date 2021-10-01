@@ -1,4 +1,5 @@
 Loops:
+
 Javascript has many different options as far as loops go. Loops are extremely useful for repeating code without having to write it out multiple times.  
 The for loop goes through a chunk of code a certain number of times. 
 The for/in loop loops through the properties of an object. The for/of loop goes through the values of an iterable object. 
@@ -6,6 +7,7 @@ The while loop repeats a chunk of code while a condition is still true (or condi
 The do/while loop ensures that a loop runs at least once because the conditions are checked after going through once. 
 
 Functions:
+
 Functions in Javascript are defined using the following syntax:
 
 Function functionName(parameter 1, parameter 2, etc) {
