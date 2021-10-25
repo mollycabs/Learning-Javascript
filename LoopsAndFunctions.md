@@ -11,13 +11,13 @@
 ## Functions:
 
 Functions in Javascript are defined using the following syntax:
-
+```
 Function functionName(parameter 1, parameter 2, etc) {
 	
 	//Code to be executed
 	
 }
-
+```
 Functions must be called in order to run, but there are no specific rules about where they must be in your code in order to run. 
 **Recursive** functions are functions that call themselves until a certain condition is met. Javascript **does** allow for these types of functions. 
 
